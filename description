@@ -1,0 +1,13 @@
+Hello everyone,
+This is Khushbu Kathuria and this project is for building snake game using python.
+
+The steps that we are going to take to build this game are :-
+
+1. installing pygame into your pc
+2. creating the screen
+3. creating the snake
+4. moving the snake
+5. game over when snake hits the boundaries
+6. adding the food
+7. increasing the length of the snake
+8. displaying the score
