@@ -11,3 +11,11 @@ The steps that we are going to take to build this game are :-
 6. adding the food
 7. increasing the length of the snake
 8. displaying the score
+
+-----------------------------------------------------------------------
+step1: we are going to install pygame into pc
+to do so just type 'pip install pygame' in your pc terminal.
+(if after installation 'WARNING: You are using pip version 19.2.3, however version 20.0.2 is available.'
+the above message is shown use 'python -m pip install --upgrade pip' command)
+
+you must now have pygame installed.
