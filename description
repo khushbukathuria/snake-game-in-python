@@ -19,3 +19,5 @@ to do so just type 'pip install pygame' in your pc terminal.
 the above message is shown use 'python -m pip install --upgrade pip' command)
 
 you must now have pygame installed.
+
+Step2: Creating the snake
