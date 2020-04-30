@@ -33,3 +33,8 @@ NOW WE WILL use of an ‘if’ statement that defines the limits for the x and y
 step5: adding the food !
 here we will add food for the snake and when the snake passes over that food the message 'YUMMY!!' will be shown
 and quit and play again option will also be added.
+
+step6: increasing the length of the snake
+here we will increase the length of the snake whenever food is being eaten by the snake
+also we will show game over when the snake collides with its own body
+(the length of the snake is basically contained in a list and the initial size is 1)
