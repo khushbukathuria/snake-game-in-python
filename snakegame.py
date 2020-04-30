@@ -67,12 +67,12 @@ while not game_over:
     y1 += y1_change
     dis.fill(white)
     pygame.draw.rect(dis, blue, [foodx, foody, snake_block, snake_block])
-        pygame.draw.rect(dis, black, [x1, y1, snake_block, snake_block])
-        pygame.display.update()
+    pygame.draw.rect(dis, black, [x1, y1, snake_block, snake_block])
+    pygame.display.update()
 
-        if x1 == foodx and y1 == foody:
-            print("Yummy!!")
-        clock.tick(snake_speed)
+    if x1 == foodx and y1 == foody:
+        print("Yummy!!")
+    clock.tick(snake_speed)
 
     pygame.quit()
     quit()
