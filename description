@@ -29,3 +29,7 @@ The events that are used over here are, K_UP, K_DOWN, K_LEFT, and K_RIGHT to mak
 step4: Game over when snake hits the boundaries:
 In this snake game, if the player hits the boundaries of the screen, then he loses
 NOW WE WILL use of an ‘if’ statement that defines the limits for the x and y coordinates of the snake to be less than or equal to that of the screen.
+
+step5: adding the food !
+here we will add food for the snake and when the snake passes over that food the message 'YUMMY!!' will be shown
+and quit and play again option will also be added.
